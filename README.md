@@ -1,10 +1,14 @@
 # docker-archlinux-yaourt
 
-build packages from archlinux aur with yaourt
+fresh archlinux with ready to use yaourt tool for build packages from archlinux AUR
+
+rebuild every day after [alekzonder/archlinux](https://hub.docker.com/r/alekzonder/archlinux)
 
 docker hub: https://hub.docker.com/r/alekzonder/archlinux-yaourt/
 
 [![nodesource/node](http://dockeri.co/image/alekzonder/archlinux-yaourt)](https://hub.docker.com/r/alekzonder/archlinux-yaourt/)
+
+
 
 # install
 
